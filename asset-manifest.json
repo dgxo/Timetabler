@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dgxo/Timetabler/static/css/main.582480f6.css",
+    "main.js": "/dgxo/Timetabler/static/js/main.b9b38c0e.js",
+    "static/js/787.7ce63f94.chunk.js": "/dgxo/Timetabler/static/js/787.7ce63f94.chunk.js",
+    "index.html": "/dgxo/Timetabler/index.html",
+    "main.582480f6.css.map": "/dgxo/Timetabler/static/css/main.582480f6.css.map",
+    "main.b9b38c0e.js.map": "/dgxo/Timetabler/static/js/main.b9b38c0e.js.map",
+    "787.7ce63f94.chunk.js.map": "/dgxo/Timetabler/static/js/787.7ce63f94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.582480f6.css",
+    "static/js/main.b9b38c0e.js"
+  ]
+}
