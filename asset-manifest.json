@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Timetabler/static/css/main.582480f6.css",
-    "main.js": "/Timetabler/static/js/main.fc32446f.js",
+    "main.css": "/Timetabler/static/css/main.011dae51.css",
+    "main.js": "/Timetabler/static/js/main.df955e5d.js",
     "static/js/787.7ce63f94.chunk.js": "/Timetabler/static/js/787.7ce63f94.chunk.js",
     "index.html": "/Timetabler/index.html",
-    "main.582480f6.css.map": "/Timetabler/static/css/main.582480f6.css.map",
-    "main.fc32446f.js.map": "/Timetabler/static/js/main.fc32446f.js.map",
+    "main.011dae51.css.map": "/Timetabler/static/css/main.011dae51.css.map",
+    "main.df955e5d.js.map": "/Timetabler/static/js/main.df955e5d.js.map",
     "787.7ce63f94.chunk.js.map": "/Timetabler/static/js/787.7ce63f94.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.582480f6.css",
-    "static/js/main.fc32446f.js"
+    "static/css/main.011dae51.css",
+    "static/js/main.df955e5d.js"
   ]
 }
